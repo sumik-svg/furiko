@@ -45,7 +45,7 @@ Log in via maiden or SSH into your norns:
 
 ```bash
 cd ~/dust/code
-git clone https://github.com/your-username/furiko.git
+git clone https://github.com/sumik-svg/furiko.git
 ```
 
 ---
