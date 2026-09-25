@@ -41,11 +41,10 @@ Originally designed for **SONICWARE LIVEN Ambient Ø**, but equipped with full *
 
 ## Installation
 
-Log in via maiden or SSH into your norns:
+In the maiden command line (the `>>` prompt at the bottom of the maiden web interface), enter [1]:
 
-```bash
-cd ~/dust/code
-git clone https://github.com/sumik-svg/furiko.git
+```text
+;install https://github.com/sumik-svg/furiko
 ```
 
 ---
